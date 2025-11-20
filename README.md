@@ -67,4 +67,7 @@ I’m open to freelance work, startup opportunities, and open-source collaborati
 ---
 
 ## 📈 GitHub Stats
-> `themuneeeb`
+![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=themuneeeb&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themuneeeb&layout=compact)
+
+---
